@@ -1,0 +1,24 @@
+<data>
+    <metadata>
+        <title>Eddie Winter</title>
+        <type>Audio Collection</type>
+    </metadata>
+    <page>
+        <static_text>Welcome to ROBCO Industries (TM) Termlink\n\n</static_text>
+        <dynamic_text>Audio Holotapes Detected\nTitle: Eddie Winter\nID: Multiple Found\n\n</dynamic_text>
+        <menu>
+            <item page="Exit">[&lt; Back]</item>
+            <item page="Eddie_Winter_Holotape-0.ogg">[Play Tape 01 - ID:000EBE77]</item>
+            <item page="Eddie_Winter_Holotape-1.ogg">[Play Tape 02 - ID:000EBE78]</item>
+            <item page="Eddie_Winter_Holotape-2.ogg">[Play Tape 03 - ID:000EBE79]</item>
+            <item page="Eddie_Winter_Holotape-3.ogg">[Play Tape 04 - ID:000EBE7A]</item>
+            <item page="Eddie_Winter_Holotape-4.ogg">[Play Tape 05 - ID:000EBE7B]</item>
+            <item page="Eddie_Winter_Holotape-5.ogg">[Play Tape 06 - ID:000EBE7C]</item>
+            <item page="Eddie_Winter_Holotape-6.ogg">[Play Tape 07 - ID:000EBE7D]</item>
+            <item page="Eddie_Winter_Holotape-7.ogg">[Play Tape 08 - ID:000EBE7E]</item>
+            <item page="Eddie_Winter_Holotape-8.ogg">[Play Tape 09 - ID:000EBE7F]</item>
+            <item page="Eddie_Winter_Holotape-9.ogg">[Play Tape 10 - ID:000D4D93]</item>
+        </menu>
+    </page>
+</data>
+

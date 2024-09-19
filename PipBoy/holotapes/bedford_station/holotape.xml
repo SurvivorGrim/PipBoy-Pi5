@@ -1,0 +1,50 @@
+<data>
+    <metadata>
+        <title>Bedford Station</title>
+        <type>Multimedia</type>
+    </metadata>
+    <page>
+        <static_text>Welcome to ROBCO Industries (TM) Termlink\n\nBedford Station - Stationmaster's Terminal\n\n</static_text>
+        <dynamic_text>Track Control Status: Inactive\n\n\n--- *ALERT* ---\nA critical failure in the track switching system has been detected. Please clear the tracks.\n\n</dynamic_text>
+        <menu>
+            <item page="Exit">[&lt; Back]</item>
+            <item page="2">[ > Spotlight Control]</item>
+            <item page="Bedford_Station_Recording-Holotape.ogg">[Play Tape]</item>
+        </menu>
+    </page>
+   <page>
+        <dynamic_text>System Diagnostics: 2 Spotilghts Linked\nNode | Condition | Status | Distance\n--------------------\nSpotlight Online,No Intruder Detected, 4.64m\nSpotlight Online,No Intruder Detected, 6.59m\n\n</dynamic_text>
+    </page>
+    <page>
+        <dynamic_text>Spotlight(s) activated...\n\n</dynamic_text>
+        <menu>
+            <item page="4">[Continue...]</item>
+        </menu>
+        <console>Activating...</console>
+    </page>
+    <page>
+        <dynamic_text>Spotlight(s) deactivated...\n\n</dynamic_text>
+        <menu>
+            <item page="5">[Continue...]</item>
+        </menu>
+        <console>Activating...</console>
+    </page>
+    <page>
+        <dynamic_text>Standardized Spotlight Control BIOS\nADMIN: Allied\nUNITS CONNECTED: 2\n\nPlease choose an option:\n\n</dynamic_text>
+        <menu>
+            <item page="0">[&lt; Back]</item>
+            <item page="3">[Deactivate Light(s)]</item>
+            <item page="1">[System Diagnostics]</item>
+        </menu>
+    </page>
+    <page>
+        <dynamic_text>Standardized Spotlight Control BIOS\nADMIN: Allied\nUNITS CONNECTED: 2\n\nPlease choose an option:\n\n</dynamic_text>
+        <menu>
+            <item page="0">[&lt; Back]</item>
+            <item page="2">[Activate Light(s)]</item>
+            <item page="1">[System Diagnostics]</item>
+        </menu>
+    </page>
+</data>
+
+

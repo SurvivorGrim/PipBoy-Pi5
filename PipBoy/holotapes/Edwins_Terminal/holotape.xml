@@ -1,0 +1,53 @@
+<data>
+    <metadata>
+        <title>Edwin's Terminal</title>
+        <type>Textual</type>
+    </metadata>
+    <page>
+        <static_text>Welcome to ROBCO Industries (TM) Termlink\n\n</static_text>
+        <dynamic_text>ERR 0x081: Data loss detected. Please contact a technician for assistance.\n\n</dynamic_text>
+        <menu>
+            <item page="Exit">[&lt; Back]</item>
+            <item page="1">[Play Tape]</item>
+        </menu>
+    </page>
+    <page>
+        <dynamic_text>Welcome, Edwin. Please select an entry:\n\n</dynamic_text>
+        <menu>
+            <item page="0">[&lt; Back]</item>
+            <item page="2">[9/6/2287]</item>
+            <item page="3">[9/12/2287]</item>
+            <item page="4">[9/14/2287]</item>
+            <item page="5">[9/15/2287]</item>
+            <item page="6">[9/17/2287]</item>
+            <item page="7">[9/17/2287]</item>
+        </menu>
+    </page>
+    <page>
+        <dynamic_text>9/7/2287\n\nBess and I got in just before sundown. Old place is still on one piece, though the north side's sunk a little more. Need to shore it up the next time I'm out this way. Spring?\n\nWhole place has been trashed, through. Damn raiders. Take me a week or two to get it cleaned out again.\n\n</dynamic_text>
+    </page>
+    <page>
+        <dynamic_text>9/12/2287\n\nForgot how nice it was to get off the road. Bess seams to be settling in well too.\n\nHeard to believe it's been ten years. I still remember Annika leveling that shotgun at me. What an introduction. Think we were both glad she never pulled the trigger.\n\n</dynamic_text>
+    </page>
+    <page>
+        <dynamic_text>9/14/2287\n\nCouple of bloatflies bothering Bess this morning. Chased them off. Nasty things.\n\nSpent the afternoon rigging up a zapper with parts from the old generator. Seams to work well enough. One jolt of that oughta keep them away for good.\n\n</dynamic_text>
+    </page>
+    <page>
+        <dynamic_text>9/15/2287\n\nShooting stars tonight. Sat on a deck and watched them, just like we used to. She's been gone three winters now. All I've got left is her locket, and this old place. She deserved better\n\n</dynamic_text>
+    </page>
+    <page>
+        <dynamic_text>9/17/2287\n\nOut fishing when the bugs came back. Bloatflies and worse. Hell of a swarm. I got a couple of good shots off, but upset the boat. Had to swim back.\n\nI think I drove them off, at least for now. Bess' spooked, but she'll be all right. If this keeps up, we'll leave first thing in the morning.\n\n</dynamic_text>
+    </page>
+    <page>
+        <dynamic_text>9/17/2287\n\nI can't find the locket. It must have slipped out of my pocket when the boat flipped over.\n\nI have to go back. It's all I got to remember her by. I can't lose it too.\n\n</dynamic_text>
+    </page>
+</data>
+
+
+
+
+
+
+
+
+

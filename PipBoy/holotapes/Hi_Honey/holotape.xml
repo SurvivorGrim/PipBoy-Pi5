@@ -1,0 +1,15 @@
+<data>
+    <metadata>
+        <title>Hi Honey!</title>
+        <type>Audio</type>
+    </metadata>
+    <page>
+        <static_text>Welcome to ROBCO Industries (TM) Termlink\n\n</static_text>
+        <dynamic_text>Audio Holotape Detected\nTitle: Hi Honey!\nID: ID: 0004F629\n\n</dynamic_text>
+        <menu>
+            <item page="Exit">[&lt; Back]</item>
+            <item page="Hi_honey!_Nora.ogg">[Play Tape]</item>
+        </menu>
+    </page>
+</data>
+

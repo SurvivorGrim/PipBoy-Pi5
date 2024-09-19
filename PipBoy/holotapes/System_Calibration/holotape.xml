@@ -1,0 +1,71 @@
+<data>
+    <metadata>
+        <title>Holotape System Test</title>
+        <type>Test Holotape</type>
+    </metadata>
+    <page>
+        <static_text>STATIC TEXT HERE\n\n</static_text>
+        <dynamic_text>PAGE 0: DYNAMIC TEXT HERE\n\n</dynamic_text>
+        <menu>
+            <item page="Exit">[&lt; Back]</item>
+            <item page="1">[Page 1]</item>
+            <item page="2">[Page 2]</item>
+            <item page="3">[Page 3]</item>
+            <item page="4">[Page 4]</item>
+            <item page="5">[Page 5]</item>
+            <item page="6">[Page 6]</item>
+        </menu>
+    </page>
+    <page>
+        <dynamic_text>PAGE 1: AUDIO HOLOTAPE TESTING\n\n</dynamic_text>
+        <menu>
+            <item page="0">[&lt; Back]</item>
+            <item page="01.ogg">[Play Tape "1"]</item>
+            <item page="02.ogg">[Play Tape "2"]</item>
+            <item page="03.ogg">[Play Tape "3"]</item>
+            <item page="04.ogg">[Play Tape "4"]</item>
+        </menu>
+    </page>
+    <page>
+        <dynamic_text>PAGE 2: MULTI-PAGE NAVIGATION TEST\n\n</dynamic_text>
+        <menu>
+            <item page="0">[&lt; Back]</item>
+            <item page="1">[Page 1]</item>
+            <item page="3">[Page 3]</item>
+            <item page="4">[Page 4]</item>
+            <item page="5">[Page 5]</item>
+            <item page="6">[Page 6]</item>
+        </menu>
+    </page>
+    <page>
+        <dynamic_text>PAGE 3: DYNAMIC TEXT TEST\n\n</dynamic_text>
+        <menu>
+            <item page="0">[&lt; Back]</item>
+        </menu>
+    </page>
+    <page>
+        <satic_text>PAGE 4: STATIC TEXT TEXT\n\n</satic_text>
+        <menu>
+            <item page="0">[&lt; Back]</item>
+        </menu>
+    </page>
+    <page>
+        <static_text>PAGE 5: STATIC TEXT HERE\n\n</static_text>
+        <dynamic_text>PAGE 5: DYNAMIC TEXT HERE\n\n</dynamic_text>
+        <menu>
+            <item page="0">[&lt; Back]</item>
+        </menu>
+    </page>
+    <page>
+        <static_text>PAGE 5: STATIC TEXT HERE\n\n</static_text>
+    </page>
+</data>
+
+
+
+
+
+
+
+
+

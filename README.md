@@ -1,5 +1,6 @@
+
 Credits:
-The original sourcecode from ZapWizard. They're project is insane and you should check them out!
+The original source code from ZapWizard. Their project is insane, and you should check them out!
 https://github.com/zapwizard/pypboy
 
 The Original Adafruit project by the Ruiz Brothers that I adapted for 2024.
@@ -7,27 +8,52 @@ https://learn.adafruit.com/raspberry-pi-pipboy-3000/overview
 
 Raspberry Pi Setup
 
-OS: MPI3501-3.5inch-2020-05-27-raspios-buster.img
+#Initial Setup
+Use Raspberry Pi Imager to burn MPI3501-3.5inch--2023-12-05-raspios-bookworm-armhf to an SD card.
+Put the SD card in the Pi.
+Plug in Ethernet.
+Attach the screen.
+Plug the Pi into the external charger to boot.
 
-Install All Needed Packages
-```bash
-sudo apt update
-sudo apt upgrade -y
-sudo apt install python3-cairosvg
-sudo apt install python3-mutagen
-sudo apt install python3-xmltodict
-sudo apt install python3-pynput
-sudo apt install python3-gpiozero
-```
+#Copy PipBoy files
+Download PipBoy files to the desktop.
+Open PowerShell:
+cd to desktop
+sftp pi@<pi_ip_address>
 
-Make Shortcut
-```bash
+mkdir PipBoy
+cd PipBoy
+put -r PipBoy
+exit
+
+#Setup Pi
+SSH into the Pi:
+ssh pi@<pi_ip_address>
+
+sudo raspi-config
+>Update
+>System Options > Boot / Auto Login > B4 Desktop AutoLogin Desktop GUI
+<Finish>
+
+sudo nano /boot/firmware/config.txt
+dtoverlay=piscreen,speed=16000000,rotate=270
+framebuffer_width=480
+framebuffer_height=320
+gpu_mem=2048
+sudo reboot
+
+Install dependencies:
+sudo apt install python3-cairosvg -y
+sudo apt install python3-mutagen -y
+sudo apt install python3-xmltodict -y
+sudo apt install python3-pynput -y
+sudo apt install python3-gpiozero -y
+
+#Make a Shortcut
+Create autostart directory and add a desktop entry:
 mkdir -p /home/pi/.config/autostart
 nano /home/pi/.config/autostart/pipboy.desktop
-```
 
-Add the following content to pipboy.desktop:
-```
 [Desktop Entry]
 Name=PipBoy
 Comment=Run PipBoy Python Script
@@ -35,36 +61,23 @@ Exec=sh -c 'cd /home/pi/PipBoy && python3 main.py'
 Icon=python
 Terminal=false
 Type=Application
-```
 
-Then make it executable:
-```bash
 chmod +x /home/pi/.config/autostart/pipboy.desktop
-```
 
-Turn Off Notification
-```bash
+#Turn Off Notification
 mkdir -p /home/pi/.config/lxsession/LXDE-pi
 nano /home/pi/.config/lxsession/LXDE-pi/autostart
-```
-
-Add the following line to autostart:
-```
 @lxpanel --profile LXDE-pi --plugin=networkmanager --hide
-```
 
-Edit 99-disable-updates file:
-```bash
+#Turn Off Auto Updates
 sudo nano /etc/apt/apt.conf.d/99-disable-updates
-```
-
-Add the following content:
-```
 APT::Periodic::Update-Package-Lists "0";
 APT::Periodic::Download-Upgradeable-Packages "0";
 APT::Periodic::AutocleanInterval "0";
 APT::Periodic::Unattended-Upgrade "0";
-```
+
+#Set Volume
+amixer -D pulse sset Master 90%
 
 Instructions for Building a Functional Pip-Boy with Raspberry Pi 5
 

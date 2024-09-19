@@ -37,12 +37,10 @@ sudo raspi-config
 ```
 
 - Update and set the boot to desktop GUI:
-
-```bash
 > Update
 > System Options > Boot / Auto Login > B4 Desktop AutoLogin Desktop GUI
 <Finish>
-```
+
 
 - Edit `config.txt`:
 

@@ -1,3 +1,9 @@
+Credits:
+The original sourcecode from ZapWizard. They're project is insane and you should check them out!
+https://github.com/zapwizard/pypboy
+
+The Original Adafruit project by the Ruiz Brothers that I adapted for 2024.
+https://learn.adafruit.com/raspberry-pi-pipboy-3000/overview
 
 Raspberry Pi Setup
 

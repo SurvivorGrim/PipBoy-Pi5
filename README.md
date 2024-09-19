@@ -95,19 +95,19 @@ Modify the bracket to accommodate the knob cables. A soldering iron can be used 
 - Connect the female ends of both knobs to the GPIO pins as follows:
 
 10-Point Knob Connections:
-Pin 29 (Purple) - GPIO 5
-Pin 31 (Gray) - GPIO 6
-Pin 33 (Brown) - GPIO 13
-Pin 35 (Red) - GPIO 19
-Pin 37 (White) - GPIO 26
-Pin 39 (Black) - GND
+- Pin 29 (Purple) - GPIO 5
+- Pin 31 (Gray) - GPIO 6
+- Pin 33 (Brown) - GPIO 13
+- Pin 35 (Red) - GPIO 19
+- Pin 37 (White) - GPIO 26
+- Pin 39 (Black) - GND
 
 Encoder Knob Connections:
-Pin 30 (Blue) - GND
-Pin 32 (Red) - GPIO 12
-Pin 34 (Orange) - GND
-Pin 36 (Yellow) - GPIO 16
-Pin 38 (Green) - GPIO 20
+- Pin 30 (Blue) - GND
+- Pin 32 (Red) - GPIO 12
+- Pin 34 (Orange) - GND
+- Pin 36 (Yellow) - GPIO 16
+- Pin 38 (Green) - GPIO 20
 
 9. Securing Audio Circuitry
 - Use super glue to attach the audio circuit and speakers, potentially removing foam from the back of the speakers for better fit.

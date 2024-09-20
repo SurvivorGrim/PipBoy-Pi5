@@ -178,7 +178,7 @@ amixer -D pulse sset Master 90%
   
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/012.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/013.jpg" width="30%">
 
-7. **10 Oint Knob Assembly**
+7. **10 Pin Knob Assembly**
     - Modify the bracket to accommodate the knob cables. A soldering iron can be used to carefully enlarge the holes. Place the knob in the enclosure and attach the 3D printed knob.
   
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/015.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/016.jpg" width="30%">
@@ -193,7 +193,7 @@ amixer -D pulse sset Master 90%
 
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/GPIO.jpg" width="60%">
 
-10-Point Knob Connections:
+10 Pin Knob Connections:
 ```bash
 - Pin 29 (Purple) - GPIO 5
 - Pin 31 (Gray) - GPIO 6
@@ -227,7 +227,7 @@ Encoder Knob Connections:
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/017.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/018.jpg" width="20%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/019.jpg" width="30%"> 
 
 12. **Face Plate Assembly**
-    - Connect the USB cables and run the LED into the faceplate, then secure the faceplate using machine screws. Glue the 10 point knob enclosure to the side of the Pipboy housing.
+    - Connect the USB cables and run the LED into the faceplate, then secure the faceplate using machine screws. Glue the 10 pin knob enclosure to the side of the Pipboy housing.
    
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/020.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/022.jpg" width="30%">
 

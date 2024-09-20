@@ -231,12 +231,12 @@ Encoder Knob Connections:
    
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/020.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/022.jpg" width="30%">
 
-13. **Magnets on Wrist Mount**
+13. **Wrist Magnets Mounting**
     - Attach magnets to the designated mounting points on the wrist mounts, ensuring that opposite ends attract.
 
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/023.jpg" width="30%"> 
     
-14. **Padding and Mount Assembly**
+14. **Padding Assembly**
     - Cut two foam pieces to fit inside the wrist mount. Fold and hot glue vinyl to the foam for added comfort, then secure the padding inside the wrist mounts.
    
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/024.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/025.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/026.jpg" width="20%">

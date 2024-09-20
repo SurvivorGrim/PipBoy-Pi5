@@ -6,10 +6,10 @@ The original source code from [ZapWizard](https://github.com/zapwizard/pypboy). 
 The Original [Adafruit project by the Ruiz Brothers](https://learn.adafruit.com/raspberry-pi-pipboy-3000/overview) that I adapted for 2024.
 
 # Parts List
+
 [Raspberry Pi-5](https://www.raspberrypi.com/products/raspberry-pi-5/)
 [Pi-5 Heatsinks](https://category.yahboom.net/products/pi5-heatsink)
 [Speaker](https://www.walmart.com/ip/HONKYOB-USB-Mini-Speaker-Computer-Speaker-Powered-Stereo-Multimedia-Speaker-for-Notebook-Laptop-PC-Black/182421233)
-
 [Rotary Encoder Knob](https://www.adafruit.com/product/377)
 [Rotary Switch - 10 Position](https://www.sparkfun.com/products/13253)
 

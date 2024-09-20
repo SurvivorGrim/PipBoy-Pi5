@@ -218,7 +218,7 @@ Encoder Knob Connections:
 11. **Face Plate Assembly**
     - Connect the USB cables and run the LED into the faceplate, then secure the faceplate using machine screws.
    
-<img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/020.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/022.jpg" width="30%"> <img src="https://
+<img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/020.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/022.jpg" width="30%">
 
 12. **Magnets on Wrist Mount**
     - Attach magnets to the designated mounting points on the wrist mounts, ensuring that opposite ends attract.

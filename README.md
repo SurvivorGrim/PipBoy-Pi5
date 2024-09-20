@@ -18,6 +18,7 @@ The 3d Printer who got me the extra knob [3DPrintsByKai](https://www.instagram.c
 - [Rotary Switch - 10 Position](https://www.sparkfun.com/products/13253)
 - [Magnets](https://www.kjmagnetics.com/proddetail.asp?prod=D42-N52)
 - [Super Bright LED](https://www.adafruit.com/product/2700)
+- [USB 2.0 Cable Male To Male Angle](https://www.ebay.com/itm/225873817359?chn=ps&mkevt=1&mkcid=28&var=524965204247&srsltid=AfmBOopzlNYnD836KYvnsTjsLpLBUJnghjdXJmBqm5temdgq9WCXy-A1ZVQ)
 
 
 # Raspberry Pi Setup

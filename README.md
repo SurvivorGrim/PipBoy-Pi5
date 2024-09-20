@@ -1,3 +1,4 @@
+<img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/pipboy-pi5_logo.jpg" width="50%">
 
 # Credits:
 The original source code from [ZapWizard](https://github.com/zapwizard/pypboy). Their project is insane, and you should check them out!

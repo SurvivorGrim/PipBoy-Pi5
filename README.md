@@ -22,10 +22,11 @@ The 3d Printer who got me the extra knob [3DPrintsByKai](https://www.instagram.c
 - [Female to Female Header Jumper Wire](https://www.amazon.com/Solderless-Multicolored-Electronic-Breadboard-Protoboard/dp/B09FP2QC95/ref=sr_1_2)
 - [Super Bright LED](https://www.adafruit.com/product/2700)
 - [USB 2.0 Cable Male To Male Angle](https://www.ebay.com/itm/225873817359?chn=ps&mkevt=1&mkcid=28&var=524965204247&srsltid=AfmBOopzlNYnD836KYvnsTjsLpLBUJnghjdXJmBqm5temdgq9WCXy-A1ZVQ)
-- [165.1-mm Silver Cabinet Latchh](https://www.lowes.com/pd/Gatehouse-2-Pack-Zinc-Plated-Silver-Touch-Catch/1000390351)
+- [165.1-mm Silver Cabinet Latch](https://www.lowes.com/pd/Gatehouse-2-Pack-Zinc-Plated-Silver-Touch-Catch/1000390351)
 - [3/4-in H Silver Mortise Interior Door Hinge](https://www.lowes.com/pd/Gatehouse-3-4-in-Satin-Nickel-Mortise-Door-Hinge-4-Pack/50056451)
 - [Brown Faux Leather Fabric](https://www.joann.com/brown-faux-leather-fabric/19451053.html)
-- [Foam Padding](Link Coming Soon)
+- [6mm Foam Padding](https://www.joann.com/pop-6mm-extra-thick-foam-sheet-9x12/16281487.html)
+- [Velcro 15lb Gray](https://www.joann.com/velcro-brand-extreme-outdoor-strips-1inx4in-10-pkg-titanium/16704181.html)
 
 
 # Raspberry Pi Setup
@@ -183,7 +184,7 @@ Set the volume to 90%:
 amixer -D pulse sset Master 90%
 ```
 
-# Instructions for Building a Functional Pip-Boy with Raspberry Pi 5
+# Pip-Boy Assembly
 
 1. **Speaker Disassembly**
     - Carefully open the speaker case. This may require breaking the plastic, so proceed with caution to avoid damaging the internal circuit and speaker components.

@@ -161,7 +161,7 @@ Add the following line:
 ```
 
 ## Turn Off Auto Updates
-- Edit the `99-disable-updates` configuration:
+Edit the `99-disable-updates` configuration:
 
 ```bash
 sudo nano /etc/apt/apt.conf.d/99-disable-updates

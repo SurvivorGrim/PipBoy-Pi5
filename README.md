@@ -167,16 +167,16 @@ amixer -D pulse sset Master 90%
   
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/009.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/011.jpg" width="30%">
 
-6. **Bracket Expansion**
-    - Modify the bracket to accommodate the knob cables. A soldering iron can be used to carefully enlarge the holes.
-  
-<img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/015.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/016.jpg" width="30%">
-
-7. **LED USB Cable**
+6. **LED USB Cable**
     - Cut and strip another USB cable, removing the green and white wires while stripping the red and black.
     - Connect this USB cable to the LED, then apply heat shrink tubing as shown in the accompanying image.
   
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/012.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/013.jpg" width="30%">
+
+7. **Bracket Expansion**
+    - Modify the bracket to accommodate the knob cables. A soldering iron can be used to carefully enlarge the holes.
+  
+<img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/015.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/016.jpg" width="30%">
 
 8. **Final Assembly Steps**
     - Mount the encoder knob. Trim the USB-C connector to fit through the designated hole. Plug the USB-C connector into the Raspberry Pi and secure it in place.

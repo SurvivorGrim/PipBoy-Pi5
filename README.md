@@ -160,7 +160,7 @@ amixer -D pulse sset Master 90%
 
 4. **Wiring Connections**
     - Separate the wires from the main strand.
-    - Trim the ends of the wires and strip them for soldering.
+    - Trim one end of the wires and strip them for soldering.
     - Solder the wires to the encoder switch as depicted in the reference image, then apply heat shrink tubing to prevent short circuits.
     - Repeat this process for the 10-point knob.
 

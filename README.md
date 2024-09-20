@@ -250,4 +250,4 @@ Encoder Knob Connections:
 14. **Power on!**
     - Finally, connect the USB to the power tube's connector. Note that this may be challenging; future builds may include an improved method. The external battery pack utilized here is recommended for managing the overall amp draw without glitches.
    
-<img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/032.jpg" width="30%">
+<img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/032.jpg" width="50%">

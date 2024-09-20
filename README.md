@@ -188,7 +188,7 @@ amixer -D pulse sset Master 90%
   
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/014.jpg" width="30%">
 
-8. **GPIO Pins**
+9. **GPIO Pins**
     - Connect the female ends of both knobs to the GPIO pins as follows:
 
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/GPIO.jpg" width="60%">
@@ -213,46 +213,46 @@ Encoder Knob Connections:
 ```
 
 
-9. **Securing Audio Circuitry**
+10. **Securing Audio Circuitry**
     - Use super glue to attach the audio circuit and speakers, potentially removing foam from the back of the speakers for better fit.
     - Mount the LCD screen, consider using spacers or cardboard glued to the top of the I/O to ensure it sits flush, accounting for spacing of the female GPIO cable connections.
   
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/021.jpg" width="30%">
 
-10. **Face Plate Modifications**
+11. **Face Plate Modifications**
     - Drill additional holes in the faceplate for screws and the second encoder switch.
     - Bend the pins on the second encoder switch and glue it to the underside of the faceplate, followed by attaching the 3D-printed knob.
     - Affix the LED light cover and screen cover to the faceplate.
    
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/017.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/018.jpg" width="20%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/019.jpg" width="30%"> 
 
-11. **Face Plate Assembly**
+12. **Face Plate Assembly**
     - Connect the USB cables and run the LED into the faceplate, then secure the faceplate using machine screws. Glue the 10 point knob enclosure to the side of the Pipboy housing.
    
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/020.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/022.jpg" width="30%">
 
-12. **Magnets on Wrist Mount**
+13. **Magnets on Wrist Mount**
     - Attach magnets to the designated mounting points on the wrist mounts, ensuring that opposite ends attract.
 
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/023.jpg" width="30%"> 
     
-13. **Padding and Mount Assembly**
+14. **Padding and Mount Assembly**
     - Cut two foam pieces to fit inside the wrist mount. Fold and hot glue vinyl to the foam for added comfort, then secure the padding inside the wrist mounts.
    
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/024.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/025.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/026.jpg" width="20%">
 
-14. **Hinge and Latch Assembly**
+15. **Hinge and Latch Assembly**
     - Drill and screw hinges onto the back and attach the latch on the front, adjusting it as necessary and securing with super glue.
 
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/027.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/028.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/029.jpg" width="30%">
 
-15. **Power Tube Assembly**
+16. **Power Tube Assembly**
     - Glue the power tube mounts as indicated in the reference image and attach the cap onto the power tube.
     - Use a small piece of gray Velcro to the back of the PipBoy to enhance stability.
    
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/030.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/031.jpg" width="30%">
 
-16. **Power on!**
+17. **Power on!**
     - Finally, connect the USB to the power tube's connector. Note that this may be challenging; future builds may include an improved method. The external battery pack utilized here is recommended for managing the overall amp draw without glitches.
    
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/032.jpg" width="50%">

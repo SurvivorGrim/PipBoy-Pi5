@@ -12,7 +12,7 @@ The 3d Printer who got me the extra knob [3DPrintsByKai](https://www.instagram.c
 - [Raspberry Pi-5](https://www.raspberrypi.com/products/raspberry-pi-5/)
 - [Pi-5 Heatsinks](https://category.yahboom.net/products/pi5-heatsink)
 - [3.5 Inch 480x320 TFT Resistive Touchscreen](https://www.sunfounder.com/products/3-5-inch-touchscreen)
-- [Pip-Boy Housing](https://www.etsy.com/listing/1716535063/functional-3000-mkiv-for-use-with-a)
+- [PipBoy Housing](https://www.etsy.com/listing/1716535063/functional-3000-mkiv-for-use-with-a)
 - [Extra 3D Knob](https://www.etsy.com/shop/3dprintsbykai)
 - [Anker PowerCore 5,000mAh Portable Charger](https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B01CU1EC6Y)
 - [USB Mini Speaker Computer Speaker](https://www.walmart.com/ip/HONKYOB-USB-Mini-Speaker-Computer-Speaker-Powered-Stereo-Multimedia-Speaker-for-Notebook-Laptop-PC-Black/182421233)
@@ -184,7 +184,7 @@ Set the volume to 90%:
 amixer -D pulse sset Master 90%
 ```
 
-# Pip-Boy Assembly
+# PipBoy Assembly
 
 1. **Speaker Disassembly**
     - Carefully open the speaker case. This may require breaking the plastic, so proceed with caution to avoid damaging the internal circuit and speaker components.
@@ -196,8 +196,8 @@ amixer -D pulse sset Master 90%
   
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/Heatsinks.jpg" width="30%">
 
-3. **Modifying the Pip-Boy Housing**
-    - Remove the pegs and mounts from the inside of the Pip-Boy, ensuring to leave the four mounts designated for the Raspberry Pi intact.
+3. **Modifying the PipBoy Housing**
+    - Remove the pegs and mounts from the inside of the PipBoy, ensuring to leave the four mounts designated for the Raspberry Pi intact.
     - Using a carving tool, create a square cutout as illustrated in the accompanying diagram to accommodate the encoder knob. Ensure that the drilled hole fits the knob securely.
 
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/003.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/004.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/005.jpg" width="30%">

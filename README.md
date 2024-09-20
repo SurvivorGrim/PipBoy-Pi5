@@ -41,24 +41,24 @@ The 3d Printer who got me the extra knob [3DPrintsByKai](https://www.instagram.c
 1. **Open PowerShell** on your machine.
 
 2. **Navigate to the directory** where you want to download the folder. Replace the path in the command with your desired location:
-   ```powershell
-   cd C:\Path\To\Your\Desired\Directory
-   ```
+```powershell
+cd C:\Path\To\Your\Desired\Directory
+```
 
 3. **Download the `PipBoy` folder** as a `.zip` file from GitHub:
-   ```powershell
-   Invoke-WebRequest -Uri https://github.com/SurvivorGrim/PipBoy-Pi5/archive/refs/heads/main.zip -OutFile PipBoy-Pi5.zip
-   ```
+```powershell
+Invoke-WebRequest -Uri https://github.com/SurvivorGrim/PipBoy-Pi5/archive/refs/heads/main.zip -OutFile PipBoy-Pi5.zip
+```
 
 4. **Extract the downloaded ZIP file**:
-   ```powershell
-   Expand-Archive -Path .\PipBoy-Pi5.zip -DestinationPath .\PipBoy-Pi5
-   ```
+```powershell
+Expand-Archive -Path .\PipBoy-Pi5.zip -DestinationPath .\PipBoy-Pi5
+```
 
 5. **Navigate into the `PipBoy` folder** within the extracted content:
-   ```powershell
-   cd .\PipBoy-Pi5-main\PipBoy\
-   ```
+ ```powershell
+cd .\PipBoy-Pi5-main\PipBoy\
+ ```
    
 ## Copy PipBoy Files to Pi
 

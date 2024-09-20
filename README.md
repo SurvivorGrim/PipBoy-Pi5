@@ -9,9 +9,13 @@ The Original [Adafruit project by the Ruiz Brothers](https://learn.adafruit.com/
 
 - [Raspberry Pi-5](https://www.raspberrypi.com/products/raspberry-pi-5/)
 - [Pi-5 Heatsinks](https://category.yahboom.net/products/pi5-heatsink)
+- [Pip-Boy Housing](https://www.etsy.com/listing/1716535063/functional-3000-mkiv-for-use-with-a)
+- 
 - [Speaker](https://www.walmart.com/ip/HONKYOB-USB-Mini-Speaker-Computer-Speaker-Powered-Stereo-Multimedia-Speaker-for-Notebook-Laptop-PC-Black/182421233)
 - [Rotary Encoder Knob](https://www.adafruit.com/product/377)
 - [Rotary Switch - 10 Position](https://www.sparkfun.com/products/13253)
+- [Magnets](https://www.kjmagnetics.com/proddetail.asp?prod=D42-N52)
+- [Super Bright LED](https://www.adafruit.com/product/2700)
 
 
 # Raspberry Pi Setup

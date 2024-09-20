@@ -149,6 +149,8 @@ amixer -D pulse sset Master 90%
 
 2. **Raspberry Pi Preparation**
     - Attach heat sinks to the Raspberry Pi to ensure proper thermal management.
+  
+<img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/Heatsinks.jpg" width="30%">
 
 3. **Modifying the Pip-Boy Housing**
     - Remove the pegs and mounts from the inside of the Pip-Boy, ensuring to leave the four mounts designated for the Raspberry Pi intact.

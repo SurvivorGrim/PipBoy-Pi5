@@ -227,7 +227,7 @@ Encoder Knob Connections:
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/017.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/018.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/019.jpg" width="30%"> 
 
 11. **Face Plate Assembly**
-    - Connect the USB cables and run the LED into the faceplate, then secure the faceplate using machine screws.
+    - Connect the USB cables and run the LED into the faceplate, then secure the faceplate using machine screws. Glue the 10 point knob enclosure to the side of the Pipboy housing.
    
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/020.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/022.jpg" width="30%">
 

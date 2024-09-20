@@ -89,7 +89,7 @@ Update and set the boot to desktop GUI:
 - Finish
 
 
-- Edit `config.txt`:
+Edit `config.txt`:
 
 ```bash
 sudo nano /boot/firmware/config.txt

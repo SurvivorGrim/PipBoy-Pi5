@@ -186,7 +186,7 @@ amixer -D pulse sset Master 90%
 8. **GPIO Pins**
     - Connect the female ends of both knobs to the GPIO pins as follows:
 
-<img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/GPIO.jpg" width="30%">
+<img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/GPIO.jpg" width="60%">
 
 10-Point Knob Connections:
 ```bash

@@ -3,9 +3,9 @@
 # Credits
 The original source code from [ZapWizard](https://github.com/zapwizard/pypboy). Their project is insane, and you should check them out!
 
-The Original [Adafruit project by the Ruiz Brothers](https://learn.adafruit.com/raspberry-pi-pipboy-3000/overview) that I adapted for 2024.
+The original [Adafruit project by the Ruiz Brothers](https://learn.adafruit.com/raspberry-pi-pipboy-3000/overview) that I adapted for 2024.
 
-The 3d Printer who got me the extra knob [3DPrintsByKai](https://www.instagram.com/3dprintsbykai/?hl=en)
+The 3d Printer who got me the extra knob [3DPrintsByKai](https://www.instagram.com/3dprintsbykai), check out all their cool 3D prints! 
 
 # Parts List
 

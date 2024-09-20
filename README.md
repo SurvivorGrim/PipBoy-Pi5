@@ -21,7 +21,9 @@ The 3d Printer who got me the extra knob [3DPrintsByKai](https://www.instagram.c
 - [Super Bright LED](https://www.adafruit.com/product/2700)
 - [USB 2.0 Cable Male To Male Angle](https://www.ebay.com/itm/225873817359?chn=ps&mkevt=1&mkcid=28&var=524965204247&srsltid=AfmBOopzlNYnD836KYvnsTjsLpLBUJnghjdXJmBqm5temdgq9WCXy-A1ZVQ)
 - [165.1-mm Silver Cabinet Latchh](https://www.lowes.com/pd/Gatehouse-2-Pack-Zinc-Plated-Silver-Touch-Catch/1000390351)
-- [Hing3/4-in H Silver Mortise Interior Door Hinge](https://www.lowes.com/pd/Gatehouse-3-4-in-Satin-Nickel-Mortise-Door-Hinge-4-Pack/50056451)
+- [3/4-in H Silver Mortise Interior Door Hinge](https://www.lowes.com/pd/Gatehouse-3-4-in-Satin-Nickel-Mortise-Door-Hinge-4-Pack/50056451)
+- [Brown Faux Leather Fabric](https://www.joann.com/brown-faux-leather-fabric/19451053.html)
+- [Foam Padding](Link Coming Soon)
 
 
 # Raspberry Pi Setup

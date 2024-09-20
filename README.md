@@ -13,6 +13,7 @@ The 3d Printer who got me the extra knob [3DPrintsByKai](https://www.instagram.c
 - [Pi-5 Heatsinks](https://category.yahboom.net/products/pi5-heatsink)
 - [Pip-Boy Housing](https://www.etsy.com/listing/1716535063/functional-3000-mkiv-for-use-with-a)
 - [Extra 3D Knob](https://www.etsy.com/shop/3dprintsbykai)
+- [Anker PowerCore 5,000mAh Portable Charger](https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B01CU1EC6Y)
 - [USB Mini Speaker Computer Speaker](https://www.walmart.com/ip/HONKYOB-USB-Mini-Speaker-Computer-Speaker-Powered-Stereo-Multimedia-Speaker-for-Notebook-Laptop-PC-Black/182421233)
 - [Rotary Encoder Knob](https://www.adafruit.com/product/377)
 - [Rotary Switch - 10 Position](https://www.sparkfun.com/products/13253)

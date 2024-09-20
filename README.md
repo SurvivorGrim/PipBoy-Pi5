@@ -11,6 +11,7 @@ The 3d Printer who got me the extra knob [3DPrintsByKai](https://www.instagram.c
 
 - [Raspberry Pi-5](https://www.raspberrypi.com/products/raspberry-pi-5/)
 - [Pi-5 Heatsinks](https://category.yahboom.net/products/pi5-heatsink)
+- [3.5 Inch 480x320 TFT Resistive Touchscreen](https://www.sunfounder.com/products/3-5-inch-touchscreen)
 - [Pip-Boy Housing](https://www.etsy.com/listing/1716535063/functional-3000-mkiv-for-use-with-a)
 - [Extra 3D Knob](https://www.etsy.com/shop/3dprintsbykai)
 - [Anker PowerCore 5,000mAh Portable Charger](https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B01CU1EC6Y)

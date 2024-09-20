@@ -241,18 +241,18 @@ Encoder Knob Connections:
    
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/024.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/025.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/026.jpg" width="30%">
 
-13. **Hinge and Latch Assembly**
+14. **Hinge and Latch Assembly**
     - Drill and screw hinges onto the back and attach the latch on the front, adjusting it as necessary and securing with super glue.
 
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/027.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/028.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/029.jpg" width="30%">
 
-14. **Power Tube Assembly**
+15. **Power Tube Assembly**
     - Glue the power tube mounts as indicated in the reference image and attach the cap onto the power tube.
     - Use a small piece of gray Velcro to the back of the PipBoy to enhance stability.
    
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/030.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/031.jpg" width="30%">
 
-14. **Power on!**
+16. **Power on!**
     - Finally, connect the USB to the power tube's connector. Note that this may be challenging; future builds may include an improved method. The external battery pack utilized here is recommended for managing the overall amp draw without glitches.
    
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/032.jpg" width="50%">

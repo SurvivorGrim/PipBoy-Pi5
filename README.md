@@ -1,9 +1,12 @@
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/pipboy-pi5_logo.jpg" width="50%">
 
-# Credits:
+# Credits
 The original source code from [ZapWizard](https://github.com/zapwizard/pypboy). Their project is insane, and you should check them out!
 
 The Original [Adafruit project by the Ruiz Brothers](https://learn.adafruit.com/raspberry-pi-pipboy-3000/overview) that I adapted for 2024.
+
+# Parts List
+Coming Soon!
 
 # Raspberry Pi Setup
 

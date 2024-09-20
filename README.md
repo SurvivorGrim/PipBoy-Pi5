@@ -31,7 +31,7 @@ The 3d Printer who got me the extra knob [3DPrintsByKai](https://www.instagram.c
 # Raspberry Pi Setup
 
 ## Initial Setup
-- Use Raspberry Pi Imager to burn `MPI3501-3.5inch--2023-12-05-raspios-bookworm-armhf` to an SD card.
+- Use Raspberry Pi Imager to burn [MPI3501-3.5inch--2023-12-05-raspios-bookworm-armhf](https://mega.nz/folder/ixQiTa7R#EM2uFGwMC8QSU6D4untoGA) to an SD card.
 - Insert the SD card into the Pi.
 - Plug in Ethernet.
 - Attach the screen.

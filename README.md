@@ -239,7 +239,7 @@ Encoder Knob Connections:
 13. **Padding and Mount Assembly**
     - Cut two foam pieces to fit inside the wrist mount. Fold and hot glue vinyl to the foam for added comfort, then secure the padding inside the wrist mounts.
    
-<img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/024.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/025.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/026.jpg" width="30%">
+<img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/024.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/025.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/026.jpg" width="20%">
 
 14. **Hinge and Latch Assembly**
     - Drill and screw hinges onto the back and attach the latch on the front, adjusting it as necessary and securing with super glue.

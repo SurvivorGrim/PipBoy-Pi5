@@ -178,12 +178,12 @@ amixer -D pulse sset Master 90%
   
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/012.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/013.jpg" width="30%">
 
-7. **Bracket Expansion**
-    - Modify the bracket to accommodate the knob cables. A soldering iron can be used to carefully enlarge the holes.
+7. **10 Oint Knob Assembly**
+    - Modify the bracket to accommodate the knob cables. A soldering iron can be used to carefully enlarge the holes. Place the knob in the enclosure and attach the 3D printed knob.
   
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/015.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/016.jpg" width="30%">
 
-8. **Final Assembly Steps**
+8. **Mounting the Pi and Encoder Knob**
     - Mount the encoder knob. Trim the USB-C connector to fit through the designated hole. Plug the USB-C connector into the Raspberry Pi and secure it in place.
   
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/014.jpg" width="30%">

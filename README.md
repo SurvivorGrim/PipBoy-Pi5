@@ -170,7 +170,7 @@ amixer -D pulse sset Master 90%
     - Cut the end off the USB cable connected to the audio circuit, noting the wire colors and soldering points.
     - For the angled USB cable, cut one end ensuring the correct angle faces right. Remove the shielding, strip the wires, and solder them according to the original color layout.
   
-<img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/009.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/011.jpg" width="30%">
+<img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/009.jpg" width="20%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/011.jpg" width="30%">
 
 6. **LED USB Cable**
     - Cut and strip another USB cable, removing the green and white wires while stripping the red and black.
@@ -224,7 +224,7 @@ Encoder Knob Connections:
     - Bend the pins on the second encoder switch and glue it to the underside of the faceplate, followed by attaching the 3D-printed knob.
     - Affix the LED light cover and screen cover to the faceplate.
    
-<img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/017.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/018.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/019.jpg" width="30%"> 
+<img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/017.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/018.jpg" width="20%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/019.jpg" width="30%"> 
 
 11. **Face Plate Assembly**
     - Connect the USB cables and run the LED into the faceplate, then secure the faceplate using machine screws. Glue the 10 point knob enclosure to the side of the Pipboy housing.

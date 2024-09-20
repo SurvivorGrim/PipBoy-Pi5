@@ -180,7 +180,13 @@ amixer -D pulse sset Master 90%
 
 8. **Final Assembly Steps**
     - Mount the encoder knob. Trim the USB-C connector to fit through the designated hole. Plug the USB-C connector into the Raspberry Pi and secure it in place.
+  
+<img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/014.jpg" width="30%">
+
+8. **GPIO Pins**
     - Connect the female ends of both knobs to the GPIO pins as follows:
+
+<img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/GPIO.jpg" width="30%">
 
 10-Point Knob Connections:
 ```bash
@@ -200,7 +206,7 @@ Encoder Knob Connections:
 - Pin 36 (Yellow) - GPIO 16
 - Pin 38 (Green) - GPIO 20
 ```
-<img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/014.jpg" width="30%">
+
 
 9. **Securing Audio Circuitry**
     - Use super glue to attach the audio circuit and speakers, potentially removing foam from the back of the speakers for better fit.

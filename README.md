@@ -75,7 +75,7 @@ exit
 ```
 
 ## Setup Pi
-- SSH into the Pi:
+SSH into the Pi:
 
 ```bash
 ssh pi@<pi_ip_address>
@@ -110,7 +110,7 @@ Reboot the Pi:
 sudo reboot
 ```
 
-- Install dependencies:
+Install dependencies:
 
 ```bash
 sudo apt install python3-cairosvg -y
@@ -121,7 +121,7 @@ sudo apt install python3-gpiozero -y
 ```
 
 ## Make a Shortcut
-- Create autostart directory and add a desktop entry:
+Create autostart directory and add a desktop entry:
 
 ```bash
 mkdir -p /home/pi/.config/autostart
@@ -147,7 +147,7 @@ chmod +x /home/pi/.config/autostart/pipboy.desktop
 ```
 
 ## Turn Off Notifications
-- Create the necessary directory and update autostart:
+Create the necessary directory and update autostart:
 
 ```bash
 mkdir -p /home/pi/.config/lxsession/LXDE-pi
@@ -177,7 +177,7 @@ APT::Periodic::Unattended-Upgrade "0";
 ```
 
 ## Set Volume
-- Set the volume to 90%:
+Set the volume to 90%:
 
 ```bash
 amixer -D pulse sset Master 90%

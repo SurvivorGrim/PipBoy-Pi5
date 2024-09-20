@@ -142,7 +142,7 @@ amixer -D pulse sset Master 90%
 
 # Instructions for Building a Functional Pip-Boy with Raspberry Pi 5
 
-1. **Speaker Assembly**
+1. **Speaker Disassembly**
     - Carefully open the speaker case. This may require breaking the plastic, so proceed with caution to avoid damaging the internal circuit and speaker components.
 
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/001.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/002.jpg" width="30%">

@@ -27,7 +27,7 @@ The 3d Printer who got me the extra knob [3DPrintsByKai](https://www.instagram.c
 - [Brown Faux Leather Fabric](https://www.joann.com/brown-faux-leather-fabric/19451053.html)
 - [6mm Foam Padding](https://www.joann.com/pop-6mm-extra-thick-foam-sheet-9x12/16281487.html)
 - [Velcro 15lb Gray](https://www.joann.com/velcro-brand-extreme-outdoor-strips-1inx4in-10-pkg-titanium/16704181.html)
-
+- [#4-40 3/8 machine screws](https://www.homedepot.com/p/Everbilt-4-40-x-3-8-in-Phillips-Slotted-Round-Head-Machine-Screws-10-Pack-831431/317478830)
 
 # Raspberry Pi Setup
 

@@ -291,7 +291,7 @@ Encoder Knob Connections:
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/027.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/028.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/029.jpg" width="30%">
 
 16. **Power Tube Assembly**
-    - Glue the power tube mounts as indicated in the reference image and attach the cap onto the power tube.
+    - Drill a 1in opening in the power tube cap to allow cables to run through. Glue the power tube mounts as indicated in the reference image and attach the power tube cap to the external battery pack. 
     - Use a small piece of gray Velcro to the back of the PipBoy to enhance stability.
    
 <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/030.jpg" width="30%"> <img src="https://github.com/SurvivorGrim/PipBoy-Pi5/blob/main/images/031.jpg" width="30%">
